@@ -1,0 +1,9 @@
+# define colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+DARK_GREY = (27, 140, 141)
+LIGHT_GREY = (189, 195, 199)
+GREEN = (60, 186, 84)
+RED = (219, 50, 54)
+YELLOW = (244, 194, 13)
+BLUE = (72, 133, 237)
